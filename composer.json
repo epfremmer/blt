@@ -49,6 +49,6 @@
     "suggest": {
         "hirak/prestissimo": "^0.3"
     },
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
